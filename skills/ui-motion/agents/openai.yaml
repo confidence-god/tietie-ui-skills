@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Motion (GSAP Core)"
+  short_description: "GSAP core tweens, easing, and responsive UI motion."
+  default_prompt: "Use $ui-motion to implement responsive UI motion with GSAP core tweens and reduced-motion support."

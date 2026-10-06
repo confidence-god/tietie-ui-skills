@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Build (tietie)"
+  short_description: "Reconstruct product UI screenshots into high-fidelity front-end pages with an approval-gated design board and one-shot screenshot verification."
+  default_prompt: "Use $ui-build to turn image2-generated product UI references into high-fidelity front-end code. Always ask for the target stack, require a local asset library, create a design-board preview first, wait for style approval, then generate HTML/CSS, Vue, or React using the approved shared design system."

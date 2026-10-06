@@ -1,0 +1,7 @@
+interface:
+  display_name: "UI Assets (tietie)"
+  short_description: "Generate grouped transparent raster UI assets while routing CSS/SVG-reproducible items to frontend code."
+  default_prompt: "Use $ui-assets to inventory the attached UI sheet, exclude assets reproducible with HTML/CSS/SVG, partition the remaining raster assets into mandatory 2-5 asset batches by size and complexity, and regenerate any batch that lacks native transparent Alpha output."
+
+policy:
+  allow_implicit_invocation: true

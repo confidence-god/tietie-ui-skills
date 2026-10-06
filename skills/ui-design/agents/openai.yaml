@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design (tietie)"
+  short_description: "Analyze MVPs and generate consistent app pages one at a time."
+  default_prompt: "Use $ui-design to audit the entire MVP project first, list the pages that need image generation, lock visual and mascot continuity anchors, then generate exactly one queued page at a time with user review and approval before proceeding. Use a real image-generation model, preferably gpt-image-2; never substitute Python or HTML drawings."

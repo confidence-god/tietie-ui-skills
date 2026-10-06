@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Theme (tietie)"
+  short_description: "通过项目访谈与真实生图设计板确认主题，为后续页面生图提供视觉依据"
+  default_prompt: "请使用 $ui-theme 了解我的项目功能与期望氛围，主动询问关键主题问题，生成主题设计板供我确认，并在确认后交付主题说明和可复用生图提示词。"
